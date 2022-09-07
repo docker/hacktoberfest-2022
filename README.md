@@ -1,6 +1,6 @@
 # hacktoberfest-2022
 
-## Goal
+## Docker and Hacktoberfest
 
 Welcome to the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) with Docker Extensions!
 
@@ -25,7 +25,7 @@ When adding an extension, you can also specify if you accept Hacktoberfest contr
 
 If you have any questions, join our Community Slack channel #extensions.
 
-## List of Docker extensions
+## Docker Extensions listed for Hacktoberfest 2022
 
 | Extension                        | github repo                                                                    | Status       | Allows PRs for Hacktoberfest |
 | -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |

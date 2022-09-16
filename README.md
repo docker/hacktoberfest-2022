@@ -38,10 +38,10 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
-| Extension                        | github repo                                                                    | Status       | Allows PRs for Hacktoberfest |
+| Name of Extension                        | GitHub URL                                                                    | Status       | Allows PRs for Hacktoberfest |
 | -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |
-| Volumes Backup                   | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension) | Ready to use | ✅                           |
-| Add new extension to participate |                                                                                |              |                              |
+| [Volumes Backup & Share](https://hub.docker.com/extensions/docker/volumes-backup-extension)                  | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension) | Ready to use | ✅                           |
+| [Click Here to Add New Extension](https://github.com/docker/hacktoberfest-2022/pulls) |                                                                                |              |                              |
 
 
 ## 🏗️ How to Build Your First Docker Extension

@@ -1,7 +1,7 @@
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://dockercommunity.slack.com/) 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
 ![Twitter](https://img.shields.io/twitter/follow/docker?style=social)
-[![Swag Store](https://img.shields.io/badge/swag%20store-f02e65?style=flat-square)](https://stores.kotisdesign.com/docker)
+[![Swag Store](https://img.shields.io/badge/swag%20store-f02e65?style=flat-square)]()
 
 
 ## Docker and Hacktoberfest 2022

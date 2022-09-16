@@ -15,8 +15,8 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 
 - ❓[How to participate?](#how-to-participate)
 - ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[How to Create Your First Docker Extension](#how-to-create-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-Hacktoberfest-List)
+- 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
+- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
 
 
 ## ❓How to participate?
@@ -34,7 +34,7 @@ We know that creating your own extension can feel like a big undertaking so here
 2. The extension does not need to be production ready by the end of Hacktoberfest.
 3. The extension could be an idea or proof of concept.
 
-## ✔️List of Docker Extensions for Hacktoberfest 2022
+##  ✔️List of Docker Extensions for Hacktoberfest 2022
 
 | Name of Extension                        | GitHub URL                                                                    | Status       | Allows PRs for Hacktoberfest |
 | -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |

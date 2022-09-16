@@ -1,6 +1,4 @@
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://dockercommunity.slack.com/) 
-![forks](https://img.shields.io/github/forks/docker/hacktoberfest-2022)
-![issues](https://img.shields.io/github/issues/docker/hacktoberfest-2022)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
 ![Twitter](https://img.shields.io/twitter/follow/docker?style=social)
 [![Swag Store](https://img.shields.io/badge/swag%20store-f02e65?style=flat-square)](https://stores.kotisdesign.com/swaggiveaway/redemption_code)

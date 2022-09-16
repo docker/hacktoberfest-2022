@@ -1,5 +1,4 @@
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://dockercommunity.slack.com/) 
-![stars](https://img.shields.io/github/stars/docker/hacktoberfest-2022)
 ![forks](https://img.shields.io/github/forks/docker/hacktoberfest-2022)
 ![issues](https://img.shields.io/github/issues/docker/hacktoberfest-2022)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
@@ -7,26 +6,45 @@
 [![Swag Store](https://img.shields.io/badge/swag%20store-f02e65?style=flat-square)](https://stores.kotisdesign.com/swaggiveaway/redemption_code)
 
 
-# hacktoberfest-2022
-
-## Docker and Hacktoberfest
+## Docker and Hacktoberfest 2022
 
 Welcome to the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) with Docker Extensions!
 
-We’d like to invite you to celebrate Hacktoberfest with us and contribute to the [Docker Extensions](https://www.docker.com/products/extensions/) open source community.
+We’d like to invite you to celebrate Hacktoberfest with us and contribute to the [Docker Community Extensions](https://www.docker.com/products/extensions/) .
+
+
+## Table of Contents
+
+- ❓[How to participate?](#how-to-participate)
+- ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
+- 🏗️[How to Create Your First Docker Extension](#how-to-create-your-first-docker-extension)
+- 🗣️[Propose  Your Docker Extension in the Hacktoberfest List(#propose-your-docker-extension-in-the-hacktoberfest-list)
+
+
+## ❓How to Participate
 
 To participate, there are two main ways you can contribute:
 
 1. Create a new own open source extension and add it to the list below.
-1. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
+2. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
 
 In order to take part in Hacktoberfest, all you need to do is open pull requests on this repo or any of the repos listed below joining Hacktoberfest, and get your PR merged or approved.
 
 We know that creating your own extension can feel like a big undertaking so here are a few guidelines to keep in mind:
 
 1. The extension should resolve a user pain point or help fill an existing user need.
-1. The extension does not need to be production ready by the end of Hacktoberfest.
-1. The extension could be an idea or proof of concept.
+2. The extension does not need to be production ready by the end of Hacktoberfest.
+3. The extension could be an idea or proof of concept.
+
+## ✔️List of Docker Extensions for Hacktoberfest 2022
+
+| Extension                        | github repo                                                                    | Status       | Allows PRs for Hacktoberfest |
+| -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |
+| Volumes Backup                   | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension) | Ready to use | ✅                           |
+| Add new extension to participate |                                                                                |              |                              |
+
+
+## 🏗️ How to Build Your First Docker Extension
 
 See steps below about how to create your first Docker Extension, and how to add it in the list.
 
@@ -34,12 +52,6 @@ When adding an extension, you can also specify if you accept Hacktoberfest contr
 
 If you have any questions, join our Community Slack channel #extensions.
 
-## Docker Extensions listed for Hacktoberfest 2022
-
-| Extension                        | github repo                                                                    | Status       | Allows PRs for Hacktoberfest |
-| -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |
-| Volumes Backup                   | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension) | Ready to use | ✅                           |
-| Add new extension to participate |                                                                                |              |                              |
 
 ## Creating your first Docker Extension
 
@@ -54,7 +66,7 @@ In a nutshell:
 
 ![First extension](images/init-extension-screenshot.png)
 
-## Proposing your Docker Extension in the Hacktoberfest list
+## 🗣️Proposing your Docker Extension in the Hacktoberfest list
 
 - Once you have a github repo for your extension, edit the README.md and describe your extension, the pain point or user needs it solves.
 - Push the new git repo to your github account

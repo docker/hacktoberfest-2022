@@ -19,7 +19,7 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 - 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-Hacktoberfest-List)
 
 
-## ❓ How to Participate
+## ❓ How to participate?
 
 To participate, there are two main ways you can contribute:
 

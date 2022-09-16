@@ -18,7 +18,7 @@ We’d like to invite you to celebrate Hacktoberfest with us and contribute to t
 - ❓[How to participate?](#how-to-participate)
 - ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
 - 🏗️[How to Create Your First Docker Extension](#how-to-create-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List(#propose-your-docker-extension-in-the-hacktoberfest-list)
+- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-Hacktoberfest-List)
 
 
 ## ❓How to Participate
@@ -66,7 +66,7 @@ In a nutshell:
 
 ![First extension](images/init-extension-screenshot.png)
 
-## 🗣️Propose Your Docker Extension in the Hacktoberfest List
+## 🗣️ Propose Your Docker Extension in the Hacktoberfest List
 
 - Once you have a github repo for your extension, edit the README.md and describe your extension, the pain point or user needs it solves.
 - Push the new git repo to your github account

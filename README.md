@@ -60,8 +60,21 @@ To get started, you can create your first Docker Extension in minutes. See detai
 In a nutshell:
 
 - If you have not Docker Desktop installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
-- in a terminal, type `> docker extension install my-extension`. It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).
-- navigate to the generated folder, and type `make install-extension` to build and install the generated extension.
+- in a terminal, type 
+
+```
+docker extension install my-extension
+```
+
+It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).
+- navigate to the generated folder, and type 
+
+```
+make install-extension
+``` 
+
+to build and install the generated extension.
+
 - Open Docker Desktop Dashboard and test the extension by navigating to the "Test-Extension" tab. You now have a running extension!
 
 ![First extension](images/init-extension-screenshot.png)

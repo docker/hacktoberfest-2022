@@ -48,7 +48,7 @@ See steps below about how to create your first Docker Extension, and how to add 
 
 When adding an extension, you can also specify if you accept Hacktoberfest contributions in your extension, that will encourage other people to participate and improve the extension you propose.
 
-If you have any questions, join our Community Slack channel #extensions.
+If you have any questions, join our [Community Slack channel](https://dockercommunity.slack.com) #extensions.
 
 
 ## Creating your first Docker Extension
@@ -73,25 +73,25 @@ make install-extension
 
 to build and install the generated extension.
 
-- Open Docker Desktop Dashboard and test the extension by navigating to the "Test-Extension" tab. You now have a running extension!
+- Open Docker Desktop Dashboard and test the extension by navigating to the ```Test-Extension``` tab. You now have a running extension!
 
 ![First extension](images/init-extension-screenshot.png)
 
 ## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 
-- Once you have a github repo for your extension, edit the README.md and describe your extension, the pain point or user needs it solves.
-- Push the new git repo to your github account
+- Once you have a GitHub repo for your extension, edit the ```README.md``` and describe your extension, the pain point or user needs it solves.
+- Push the new Git repo to your GithHub account
 
 ```
-git remote add origin https://github.com/my-account/my-extension.git
-git push -u origin main
+ git remote add origin https://github.com/my-account/my-extension.git
+ git push -u origin main
 ```
 
 - Fork https://github.com/docker/hacktoberfest-2022 repo
-- In your local clone of docker/harcktoberfest repo, add your extension in the list (in README.md). Don't forget to include:
+- In your local clone of ```docker/harcktoberfest``` repo, add your extension in the list (in ```README.md```). Don't forget to include:
   - extension name, and a one line description
-  - github repo for the description
-  - status of the extension you add: `idea` (if you have not started to actually code the extension), `WIP` (some code has been started), `functional` (functionality is implemented)
+  - Github repo for the description
+  - status of the Extension you add: `idea` (if you have not started to actually code the extension), `WIP` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
 - commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
 

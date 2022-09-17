@@ -26,7 +26,7 @@ To participate, there are two main ways you can contribute:
 1. Create a new own open source extension and add it to the list below.
 2. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
 
-In order to take part in Hacktoberfest, all you need to do is open pull requests on this repo or any of the repos listed below joining Hacktoberfest, and get your PR merged or approved.
+In order to take part in Hacktoberfest, all you need to do is open [Pull Requests](https://github.com/docker/hacktoberfest-2022/pulls) on this repo or any of the repos listed below joining Hacktoberfest, and get your PR merged or approved.
 
 We know that creating your own extension can feel like a big undertaking so here are a few guidelines to keep in mind:
 

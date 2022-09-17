@@ -94,3 +94,27 @@ git push -u origin main
   - status of the extension you add: `idea` (if you have not started to actually code the extension), `WIP` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
 - commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
+
+
+
+
+
+## 📹 Videos
+
+
+| How to Build Your First Docker Extension  | Creating Docker Extension from Scratch |
+| ------------- | ------------- |
+| [![Build Your First Docker Extension](https://user-images.githubusercontent.com/313480/190869414-282ac0c5-26a7-4970-a5f2-bb0442f37495.png)](https://www.youtube.com/watch?v=Fu6BuqJ4MtE) | [![Slim.io Extension](https://user-images.githubusercontent.com/313480/190869394-18ce29d8-bd43-4292-afb8-467c97899864.png)](https://www.youtube.com/watch?v=Ka9zp_gOCdg) |
+
+
+
+
+
+
+
+
+
+## 💬 Support and Community 
+
+If you do get enough interest to build a Docker Extension, the team at Docker is available to support you. 
+You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #extensions, post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.

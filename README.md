@@ -17,6 +17,9 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 - ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
 - 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
 - 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
+- 📹[Videos](#videos)
+- 💬[Support and Community](#support-and-community)
+
 
 
 ## ❓How to participate?
@@ -99,7 +102,7 @@ to build and install the generated extension.
 
 
 
-## 📹 Videos
+## 📹Videos
 
 
 | How to Build Your First Docker Extension  | Creating Docker Extension from Scratch |
@@ -112,21 +115,7 @@ to build and install the generated extension.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 💬 Support and Community 
+## 💬Support and Community 
 
 If you do get enough interest to build a Docker Extension, the team at Docker is available to support you. 
 You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #extensions, post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.

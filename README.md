@@ -130,3 +130,14 @@ git push -u origin main
 
 If you do get enough interest to build a Docker Extension, the team at Docker is available to support you. 
 You can find us in the [Docker Community Slack](http://dockr.ly/slack) in #extensions, post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.
+
+
+## References:
+
+- [Introduction to Docker Extensions](https://docs.docker.com/desktop/extensions/)
+- [How to create your own Docker Extensions](https://docs.docker.com/desktop/extensions-sdk/)
+- [Create Your First Extensions](https://docs.docker.com/desktop/extensions-sdk/tutorials/initialize/)
+- [Minimal frontend extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-extension/)
+- [Minimal React Extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/react-extension/)
+- [Minimal Docker CLI Extensions tutorial](https://docs.docker.com/desktop/extensions-sdk/tutorials/minimal-frontend-using-docker-cli/)
+

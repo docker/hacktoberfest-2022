@@ -34,7 +34,7 @@ We know that creating your own extension can feel like a big undertaking so here
 2. The extension does not need to be production ready by the end of Hacktoberfest.
 3. The extension could be an idea or proof of concept.
 
-##  ✔️List of Docker Extensions for Hacktoberfest 2022
+## ✔️List of Docker Extensions for Hacktoberfest 2022
 
 | Name of Extension                        | GitHub URL                                                                    | Status       | Allows PRs for Hacktoberfest |
 | -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |
@@ -77,7 +77,7 @@ to build and install the generated extension.
 
 ![First extension](images/init-extension-screenshot.png)
 
-## 🗣️ Propose Your Docker Extension in the Hacktoberfest List
+## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 
 - Once you have a github repo for your extension, edit the README.md and describe your extension, the pain point or user needs it solves.
 - Push the new git repo to your github account

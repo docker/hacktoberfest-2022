@@ -2,6 +2,8 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
 ![Twitter](https://img.shields.io/twitter/follow/docker?style=social)
 [![Swag Store](https://img.shields.io/badge/swag%20store-f02e65?style=flat-square)](https://stores.kotisdesign.com/docker)
+[![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/t/about-the-hacktoberfest-category/129061)
+
 
 
 ## Docker and Hacktoberfest 2022

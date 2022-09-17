@@ -111,7 +111,7 @@ to build and install the generated extension.
 
 | Introducing Docker Extension  | What are Docker Extensions |
 | ------------- | ------------- |
-| [![Introducing Docker Extension](https://user-images.githubusercontent.com/313480/190869475-09e75525-ac6a-4bbe-9c0f-fc1e7c16b51f.png)](https://www.youtube.com/watch?v=Fu6BuqJ4MtE) | [![What are Docker Extensions](https://user-images.githubusercontent.com/313480/190869659-6018e125-e09a-479c-9eba-621c708a9a34.png)](https://www.youtube.com/watch?v=zfDSFw9Z8YY) |
+| [![Introducing Docker Extension](https://user-images.githubusercontent.com/313480/190869475-09e75525-ac6a-4bbe-9c0f-fc1e7c16b51f.png)](https://www.youtube.com/watch?v=BHKp7Sc3VVc&t=420s) | [![What are Docker Extensions](https://user-images.githubusercontent.com/313480/190869659-6018e125-e09a-479c-9eba-621c708a9a34.png)](https://www.youtube.com/watch?v=zfDSFw9Z8YY) |
 
 
 

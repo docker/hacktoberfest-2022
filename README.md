@@ -59,7 +59,6 @@ We know that creating your own extension can feel like a big undertaking so here
 | [Watchtower](https://github.com/containrrr/watchtower) | | | 
 | [Buildg](https://github.com/ktock/buildg) | | |
 | [Mongo Express](https://hub.docker.com/_/mongo-express) | | |
-| [Apprwrite](https://github.com/appwrite/appwrite)| | |
 | [Popeye](https://github.com/derailed/popeye) | | |
 | [Botkube](https://botkube.io/)| | |
 | Add new extension to participate |                                                                                                  |           |                              |

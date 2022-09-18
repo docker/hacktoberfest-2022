@@ -39,10 +39,30 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
-| Name of Extension                        | GitHub URL                                                                    | Status       | Allows PRs for Hacktoberfest |
-| -------------------------------- | ------------------------------------------------------------------------------ | ------------ | ---------------------------- |
-| [Volumes Backup & Share](https://hub.docker.com/extensions/docker/volumes-backup-extension)                  | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension) | Ready to use | ✅                           |
-| [Click Here to Add New Extension](https://github.com/docker/hacktoberfest-2022/pulls) |                                                                                |              |                              |
+| Name of Extension                        | github repo                                                                                       | Status    | Allows PRs for Hacktoberfest |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- | --------- | ---------------------------- |
+| Volumes Backup                   | [volumes-backup-extension](https://github.com/docker/volumes-backup-extension)                    | Published | ✅                           |
+|  GOSH                            | [gosh extension](https://github.com/tonlabs/gosh/tree/main/docker-extension)                      | Published | ✅                           |
+| JFrog                            | [JFrog extension](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Published |  ✅                          |
+| Mini Cluster                     | [Aventer extension](https://github.com/AVENTER-UG/docker-mesos-extension)                         | Published |  ✅                          |
+| DDosify                          | [DDosify extension](https://github.com/ddosify/ddosify-docker-extension)                          | Published |  ✅                          |
+| Lacework scanner                 | [Lacework extension](https://github.com/l6khq/lacework-docker-extension)                          | Published |  ✅                          |
+| Postman                          | [Postman extension](https://github.com/loopDelicious/docker-extension)                            | WIP       |  ✅                          |
+| Github Registry                  | [Github registry extension](https://github.com/peacecwz/github-registry-docker-desktop-extension) | WIP       |  ✅                          |
+| Percona Monitoring-Management    | [PMM extension](https://github.com/edithturn/pmm-docker-extension)                                | WIP       |  ✅                          |
+| Swagger                          | [Swagger extension](https://github.com/n-murphy/swagger-editor-docker-extension)                  | WIP       |  ✅                          |
+| Drone                            | [Drone extension](https://github.com/harness/drone-desktop-docker-extension)                      | WIP       |  ✅                          |
+| Alfresco                         | [Alfresco extension](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | WIP       |  ✅                          |
+| Desktop Request mapper           | [DDM extension](https://github.com/jatin711-debug/request-docker-extension)                       | WIP       |  ✅                          |
+| Storj                             | [Storj extension](https://github.com/elek/docker-storj-extension)                                 | WIP       |  ✅                          |
+| [Dive Tool](https://github.com/wagoodman/dive)            |             |  | | 
+| [Watchtower](https://github.com/containrrr/watchtower) | | | 
+| [Buildg](https://github.com/ktock/buildg) | | |
+| [Mongo Express](https://hub.docker.com/_/mongo-express) | | |
+| [Apprwrite](https://github.com/appwrite/appwrite)| | |
+| [Popeye](https://github.com/derailed/popeye) | | |
+| [Botkube](https://botkube.io/)| | |
+| Add new extension to participate |                                                                                                  |           |                              |
 
 
 ## 🏗️How to Build Your First Docker Extension

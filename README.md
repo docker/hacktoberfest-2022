@@ -35,29 +35,29 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
-| Name of Extension                | Github URL                                                                              | Category                  | Status         | Allows PRs for Hacktoberfest |
-| -------------------------------- | --------------------------------------------------------------------------------------- | ------------------------- | -------------- | ---------------------------- |
-| Volumes Backup                   | [volumes backup](https://github.com/docker/volumes-backup-extension)                    | Utility                   | In Marketplace | ✅                           |
-| Dive Tool                        | [Dive Tool](https://github.com/wagoodman/dive)                                          | Utility                   | Community      |                              |
-| Watchtower                       | [Watchtower](https://github.com/containrrr/watchtower)                                  | Infrastructure/Automation | Community      |                              |
-| Buildg                           | [Buildg](https://github.com/ktock/buildg)                                               | Debugging                 | Community      |                              |
-| Mongo Express                    | [Mongo Express](https://hub.docker.com/_/mongo-express)                                 | Database                  | Community      |                              |
-| Popeye                           | [Popeye](https://github.com/derailed/popeye)                                            | Debugging                 | Community      |                              |
-| Botkube                          | [Botkube](https://botkube.io/)                                                          | Monitoring/Debugging      | Community      |                              |
-| GOSH                             | [gosh](https://github.com/tonlabs/gosh/tree/main/docker-extension)                      | Security                  | In Marketplace | ✅                           |
-| JFrog                            | [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Security                  | In Marketplace | ✅                           |
-| Mini Cluster                     | [Aventer](https://github.com/AVENTER-UG/docker-mesos-extension)                         | Cloud Infrastructure      | In Marketplace | ✅                           |
-| DDosify                          | [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                     | In Marketplace | ✅                           |
-| Lacework scanner                 | [Lacework](https://github.com/l6khq/lacework-docker-extension)                          | Security                  | In Marketplace | ✅                           |
-| Postman                          | [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                     | Community      | ✅                           |
-| Github Registry                  | [Github registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry            | Community      | ✅                           |
-| Percona Monitoring-Management    | [PMM](https://github.com/edithturn/pmm-docker-extension)                                | Database                  | Community      | ✅                           |
-| Swagger                          | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools         | Community      | ✅                           |
-| Drone                            | [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration    | Community      | ✅                           |
-| Alfresco                         | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management        | Community      | ✅                           |
-| Desktop Request mapper           | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools         | Community      | ✅                           |
-| Storj                             | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure      | Community      | ✅                           |
-| Add new extension to participate |                                                                                         |                           |                |
+| Name/Github Repo                                                                        | Category                  | Status         | Hacktoberfest PRs |
+| --------------------------------------------------------------------------------------- | ------------------------- | -------------- | ----------------- |
+| [Volumes Backup & Share](https://github.com/docker/volumes-backup-extension)            | Utility                   | In Marketplace | ✅                |
+| [Dive Tool](https://github.com/wagoodman/dive)                                          | Utility                   | Community      |                   |
+| [Watchtower](https://github.com/containrrr/watchtower)                                  | Infrastructure/Automation | Community      |                   |
+| [Buildg](https://github.com/ktock/buildg)                                               | Debugging                 | Community      |                   |
+| [Mongo Express](https://hub.docker.com/_/mongo-express)                                 | Database                  | Community      |                   |
+| [Popeye](https://github.com/derailed/popeye)                                            | Debugging                 | Community      |                   |
+| [Botkube](https://botkube.io/)                                                          | Monitoring/Debugging      | Community      |                   |
+| [GOSH](https://github.com/tonlabs/gosh/tree/main/docker-extension)                      | Security                  | In Marketplace | ✅                |
+| [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Security                  | In Marketplace | ✅                |
+| [Aventer Mini CLuster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure      | In Marketplace | ✅                |
+| [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                     | In Marketplace | ✅                |
+| [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security                  | In Marketplace | ✅                |
+| [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                     | Community      | ✅                |
+| [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry            | Community      | ✅                |
+| [PMM](https://github.com/edithturn/pmm-docker-extension)                                | Database                  | Community      | ✅                |
+| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools         | Community      | ✅                |
+| [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration    | Community      | ✅                |
+| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management        | Community      | ✅                |
+| [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools         | Community      | ✅                |
+| [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure      | Community      | ✅                |
+| Add new extension to participate                                                        |                           |                |                   |
 
 ## 🏗️How to Build Your First Docker Extension
 

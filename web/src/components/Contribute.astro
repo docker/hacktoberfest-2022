@@ -1,0 +1,46 @@
+---
+import * as contribute from "../content/contribute.md";
+---
+
+<div class="border-2 border-[#da62c4] rounded-xl glow">
+  <div
+    class="py-40 flex flex-col items-center justify-center gap-8 text-center"
+  >
+    <div class="flex items-center justify-center text-glow">
+      <contribute.Content />
+    </div>
+
+    <a class="bg-white flex gap-2 px-4 py-2 rounded" href="https://github.com/docker/hacktoberfest-2022">
+      <img src="/icons/github.svg" />
+      <span class="text-black">See all available repositories</span>
+    </a>
+  </div>
+</div>
+
+<style>
+    .text-glow {
+        font-family: 'Neonderthaw', sans-serif;
+        text-shadow:
+        0 0 1px #fff,
+        0 0 2px #fff,
+        0 0 3px #fff,
+        0 0 6px #da62c4,
+        0 0 12px #da62c4,
+        0 0 23px #da62c4,
+        0 0 44px #da62c4,
+        0 0 50px #da62c4;
+    }
+
+    .glow {
+        box-shadow:
+        /* 0 0 1px #fff, */
+        /* 0 0 2px #fff, */
+        /* 0 0 3px #fff, */
+        0 0 6px #da62c4,
+        0 0 12px #da62c4,
+        0 0 23px #da62c4,
+        0 0 44px #da62c4,
+        0 0 50px #da62c4;
+    }
+
+</style>

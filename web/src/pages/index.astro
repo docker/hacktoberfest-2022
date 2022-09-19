@@ -1,0 +1,124 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import HowToContribute from "../components/HowToContribute.astro";
+import Swag from "../components/Swag.astro";
+import Contribute from "../components/Contribute.astro";
+import '@fontsource/twinkle-star';
+
+// Use Astro.glob() to fetch all posts, and then sort them by date.
+const repos = (await Astro.glob("../repos/*.{md,mdx}")).sort(
+  (a, b) =>
+    new Date(b.frontmatter.pubDate).valueOf() -
+    new Date(a.frontmatter.pubDate).valueOf()
+);
+---
+
+<Layout title="Welcome to Astro.">
+  <main class="flex flex-col">
+    <h1 class="font-bold">
+      Celebrate <span class="text-gradient">Hacktoberfest</span> with <span
+        class="docker-gradient">Docker</span
+      >
+    </h1>
+    <!-- <p class="instructions">
+      Check out the <code>src/pages</code> directory to get started.<br />
+      <strong>Code Challenge:</strong> Tweak the "Welcome to Astro" message above.
+    </p> -->
+    <Contribute />
+    <!-- <ul role="list" class="link-card-grid">
+      {
+        repos.map((repo) => (
+          <Card
+            status=""
+            href={repo.frontmatter.link}
+            title={repo.frontmatter.title}
+            body={repo.frontmatter.description}
+          />
+        ))
+      }
+    </ul> -->
+    <Swag />
+    <HowToContribute />
+  </main>
+</Layout>
+
+<style>
+  :root {
+    --astro-gradient: linear-gradient(0deg, #4f39fa, #da62c4);
+    --docker-gradient: linear-gradient(0deg, #004aa5, #2496ed);
+  }
+
+  @font-face {
+    font-family: "hellodenverdisplay";
+    src: url("/fonts/hellodenverdisplay.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  h1 {
+    margin: 2rem 0;
+  }
+
+  main {
+    margin: auto;
+    padding: 1em;
+    max-width: 60ch;
+  }
+
+  .text-gradient {
+    font-weight: 900;
+    background-image: var(--astro-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100% 200%;
+    background-position-y: 100%;
+    border-radius: 0.4rem;
+    animation: pulse 4s ease-in-out infinite;
+  }
+
+  .docker-gradient {
+    font-weight: 900;
+    background-image: var(--docker-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 100% 200%;
+    background-position-y: 100%;
+    border-radius: 0.4rem;
+    animation: pulse 4s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%,
+    100% {
+      background-position-y: 0%;
+    }
+    50% {
+      background-position-y: 80%;
+    }
+  }
+
+  .instructions {
+    line-height: 1.6;
+    margin: 1rem 0;
+    background: #4f39fa;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    color: var(--color-bg);
+  }
+
+  .instructions code {
+    font-size: 0.875em;
+    border: 0.1em solid var(--color-border);
+    border-radius: 4px;
+    padding: 0.15em 0.25em;
+  }
+
+  .link-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+    gap: 1rem;
+    padding: 0;
+  }
+</style>

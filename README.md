@@ -56,7 +56,7 @@ We know that creating your own extension can feel like a big undertaking so here
 | Drone                            | [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration    | Community      | ✅                           |
 | Alfresco                         | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management        | Community      | ✅                           |
 | Desktop Request mapper           | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools         | Community      | ✅                           |
-| Sorj                             | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure      | Community      | ✅                           |
+| Storj                             | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure      | Community      | ✅                           |
 | Add new extension to participate |                                                                                         |                           |                |
 
 ## 🏗️How to Build Your First Docker Extension

@@ -44,14 +44,12 @@ We know that creating your own extension can feel like a big undertaking so here
 | [Mongo Express](https://hub.docker.com/_/mongo-express)                                 | Database                  | Community      |                   |
 | [Popeye](https://github.com/derailed/popeye)                                            | Debugging                 | Community      |                   |
 | [Botkube](https://botkube.io/)                                                          | Monitoring/Debugging      | Community      |                   |
-| [GOSH](https://github.com/tonlabs/gosh/tree/main/docker-extension)                      | Security                  | In Marketplace | ✅                |
 | [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Security                  | In Marketplace | ✅                |
-| [Aventer Mini CLuster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure      | In Marketplace | ✅                |
+| [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure      | In Marketplace | ✅                |
 | [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                     | In Marketplace | ✅                |
 | [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security                  | In Marketplace | ✅                |
 | [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                     | Community      | ✅                |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry            | Community      | ✅                |
-| [PMM](https://github.com/edithturn/pmm-docker-extension)                                | Database                  | Community      | ✅                |
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools         | Community      | ✅                |
 | [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration    | Community      | ✅                |
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management        | Community      | ✅                |

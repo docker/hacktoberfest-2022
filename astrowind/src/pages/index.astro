@@ -13,6 +13,7 @@ import HighlightedPosts from '~/components/blog/HighlightedPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
+import HighlightedVideos from '~/components/blog/HighlightedVideos.astro';
 
 const meta = {
 	title: SITE.title,
@@ -24,5 +25,6 @@ const meta = {
 <Layout {meta}>
 	<Hero />
 	<HowToBuildYourFirstDockerExtension />
+	<HighlightedVideos />
 	<FAQs />
 </Layout>

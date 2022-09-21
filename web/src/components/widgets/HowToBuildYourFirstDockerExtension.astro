@@ -10,12 +10,11 @@ import Picture from '~/components/core/Picture.astro';
 				<div class="flex flex-wrap md:-mx-8">
 					<div class="w-full lg:w-1/2 px-0 sm:px-8">
 						<div class="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
-							<h2 class="mb-4 text-3xl lg:text-4xl font-bold font-heading">
-								How To Build Your First Docker Extension
-							</h2>
+							<h2 class="mb-4 text-3xl lg:text-4xl font-bold font-heading">How To Build Your First Docker Extension</h2>
 
 							<p class="mb-8 text-xl text-gray-600 dark:text-slate-400">
-               Getting started building an extension is straightforward: download the latest version of Docker Desktop and use the Extensions CLI to create one.
+								Getting started building an extension is straightforward: download the latest version of Docker Desktop
+								and use the Extensions CLI to create one.
 							</p>
 
 							<div class="w-full">
@@ -42,11 +41,14 @@ import Picture from '~/components/core/Picture.astro';
 								</div>
 								<div class="px-4">
 									<h3 class="mb-4 text-xl font-semibold font-heading">Create the extension from a boilerplate</h3>
-									<p class="text-gray-500 dark:text-gray-400">
+									<p
+										class="text-gray-500 bg-gray-100 dark:bg-slate-700 inline-block mr-2 mb-2 py-0.5 px-2 dark:text-gray-400"
+									>
 										$ docker extension install my-extension
 									</p>
+									<br />
 									<p class="text-gray-500 dark:text-gray-400">
-										It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).
+										Generates a hello-world extension with a basic UI and a connected backend service (optional).
 									</p>
 								</div>
 							</li>
@@ -60,7 +62,9 @@ import Picture from '~/components/core/Picture.astro';
 								</div>
 								<div class="px-4">
 									<h3 class="mb-4 text-xl font-semibold font-heading">Build and install the extension</h3>
-									<p class="text-gray-500 dark:text-gray-400">
+									<p
+										class="text-gray-500 bg-gray-100 dark:bg-slate-700 inline-block mr-2 mb-2 py-0.5 px-2 dark:text-gray-400"
+									>
 										$ make install-extension
 									</p>
 								</div>
@@ -76,7 +80,8 @@ import Picture from '~/components/core/Picture.astro';
 								<div class="px-4">
 									<h3 class="mb-4 text-xl font-semibold font-heading">Open the Docker Desktop Dashboard</h3>
 									<p class="text-gray-500 dark:text-gray-400">
-										 Test the extension by navigating to the extension tab in the left-menu drawer. You now have a running extension!
+										Test the extension by navigating to the extension tab in the left-menu drawer. You now have a
+										running extension!
 									</p>
 								</div>
 							</li>

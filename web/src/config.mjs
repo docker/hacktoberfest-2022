@@ -1,11 +1,11 @@
 export const SITE = {
-	name: 'AstroWind',
+	name: 'Hacktoberfest 2022 | Docker',
 
 	origin: 'https://docker.github.io',
 	basePathname: '/hacktoberfest-2022',
 
-	title: 'AstroWind — Your website with Astro + Tailwind CSS',
-	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',
+	title: 'Hacktoberfest 2022 | Docker',
+	description: 'Celebrate Hacktoberfest with Docker and contribute to our new Docker Extensions. We have listed all available repositories and you can also create your own to contribute to your Hacktoberfest Journey. Long live Open Source Software!',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',

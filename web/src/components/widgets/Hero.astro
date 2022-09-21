@@ -1,6 +1,7 @@
 ---
 import { Icon } from 'astro-icon';
 import Picture from '~/components/core/Picture.astro';
+import * as heroContent from "~/content/hero.md";
 ---
 
 <section>
@@ -18,18 +19,15 @@ import Picture from '~/components/core/Picture.astro';
 					>
 				</h1>
 				<div class="max-w-3xl mx-auto">
-					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-						Hacktoberfest is a month-long celebration of open-source projects, their maintainers, and the entire
-						community of contributors. This event is all about giving back to the community and celebrating all things
-						open source. We’d like to invite you to celebrate Hacktoberfest with us and contribute to the Docker
-						Community Extensions.
-					</p>
-					<div class="max-w-none px-6 flex flex-nowrap flex-col sm:flex-row sm:justify-center gap-4">
+					<span class="text-xl text-gray-600 dark:text-slate-400">
+						<heroContent.Content />
+					</span>
+					<div class="max-w-none pt-8 px-6 flex flex-nowrap flex-col sm:flex-row sm:justify-center gap-4">
 						<div class="flex w-full sm:w-auto">
 							<a
 								class="btn text-white bg-gray-900 hover:bg-gray-700 dark:bg-gray-700 dark:hover:bg-gray-800 w-full"
 								target="__blank"
-								href="https://github.com/docker/hacktoberfest-2022"
+								href="https://github.com/docker/hacktoberfest-2022#%EF%B8%8Flist-of-docker-extensions-for-hacktoberfest-2022"
 							>
 								<Icon name="akar-icons:github-fill" class="w-5 h-5 mr-1 -ml-1.5" /> See all available repositories</a
 							>
@@ -40,7 +38,7 @@ import Picture from '~/components/core/Picture.astro';
 			<div>
 				<div class="relative mb-8 m-auto max-w-3xl">
 					<Picture
-						src={import('~/assets/images/hacktoberfest-docker.png')}
+						src={heroContent.frontmatter.image}
 						class="mx-auto rounded-md shadow-lg bg-gray-400 dark:bg-slate-700 w-full"
 						widths={[400, 768]}
 						sizes=" (max-width: 767px) 400px, 768px"

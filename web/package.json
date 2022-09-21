@@ -1,6 +1,6 @@
 {
-  "name": "@onwidget/astrowind",
-  "description": "A template to make your website using Astro + Tailwind CSS.",
+  "name": "@docker/hacktoberfest-2022",
+  "description": "A landing page for Docker participation in Hacktoberfest",
   "version": "0.3.5",
   "private": true,
   "scripts": {

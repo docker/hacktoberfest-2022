@@ -1,0 +1,33 @@
+---
+import { SITE } from '~/config.mjs';
+import { getCanonical, getHomePermalink } from '~/utils/permalinks';
+import Layout from '~/layouts/PageLayout.astro';
+
+import Hero from '~/components/widgets/Hero.astro';
+import Features from '~/components/widgets/Features.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Steps from '~/components/widgets/Steps.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import HowToBuildYourFirstDockerExtension from '~/components/widgets/HowToBuildYourFirstDockerExtension.astro';
+import WhatIsDockerExtensions from '~/components/widgets/WhatIsDockerExtensions.astro';
+import HighlightedPosts from '~/components/blog/HighlightedPosts.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import MarketplaceCallToAction from '~/components/widgets/MarketplaceCallToAction.astro';
+import HighlightedVideos from '~/components/blog/HighlightedVideos.astro';
+
+const meta = {
+	title: SITE.title,
+	description: SITE.description,
+	canonical: getCanonical(getHomePermalink()),
+};
+---
+
+<Layout {meta}>
+	<Hero />
+	<WhatIsDockerExtensions />
+	<HowToBuildYourFirstDockerExtension />
+	<HighlightedVideos />
+	<FAQs />
+	<MarketplaceCallToAction />
+</Layout>

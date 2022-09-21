@@ -1,0 +1,41 @@
+---
+import { Icon } from 'astro-icon';
+import Picture from '~/components/core/Picture.astro';
+---
+
+<section>
+	<div class="max-w-6xl mx-auto px-4 sm:px-6">
+		<div class="py-12 md:py-20">
+			<div class="text-center pb-10 md:pb-16">
+				<h1 class="text-5xl md:text-[3.50rem] font-bold leading-tighter tracking-tighter mb-4 font-heading">
+					What is Docker
+					<span class="bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-secondary-500"
+						>Extensions</span
+					> ?
+				</h1>
+				<div class="max-w-3xl mx-auto">
+					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
+						Docker Extensions lets you connect your favorite development tools to your application development and
+						deployment workflows.
+					</p>
+					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
+						You can extend Docker Desktop with debugging, testing, security, and networking functionalities, and build
+						custom add-ons using the <strong>Extensions SDK.</strong>
+					</p>
+				</div>
+			</div>
+			<div>
+				<div class="relative m-auto max-w-3xl">
+					<Picture
+						src={import('~/assets/images/disk-usage-screenshot.png')}
+						class="mx-auto rounded-md"
+						widths={[400, 768]}
+						sizes=" (max-width: 767px) 400px, 768px"
+						alt="Disk Usage Extension"
+						aspectRatio="16:9"
+					/>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

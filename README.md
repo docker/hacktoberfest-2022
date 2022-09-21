@@ -55,6 +55,8 @@ You can add your own extension in this list with your own github repository.
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | Add new extension to participate                                                        |                        |                |             |
 
+## List of Docker Extensions suggestions
+
 Here is a list of suggestions or ideas for new Docker Extensions:
 
 | Name/Github Repo                                        | Category                  |

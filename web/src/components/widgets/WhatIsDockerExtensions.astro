@@ -1,6 +1,8 @@
 ---
 import { Icon } from 'astro-icon';
 import Picture from '~/components/core/Picture.astro';
+import * as content from "~/content/what-is-docker-extensions.md";
+
 ---
 
 <section>
@@ -14,20 +16,15 @@ import Picture from '~/components/core/Picture.astro';
 					> ?
 				</h1>
 				<div class="max-w-3xl mx-auto">
-					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-						Docker Extensions lets you connect your favorite development tools to your application development and
-						deployment workflows.
-					</p>
-					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-						You can extend Docker Desktop with debugging, testing, security, and networking functionalities, and build
-						custom add-ons using the <strong>Extensions SDK.</strong>
-					</p>
+					<span class="text-xl text-gray-600 dark:text-slate-400">
+						<content.Content />
+					</span>
 				</div>
 			</div>
 			<div>
 				<div class="relative m-auto max-w-3xl">
 					<Picture
-						src={import('~/assets/images/disk-usage-screenshot.png')}
+						src={content.frontmatter.image}
 						class="mx-auto rounded-md"
 						widths={[400, 768]}
 						sizes=" (max-width: 767px) 400px, 768px"

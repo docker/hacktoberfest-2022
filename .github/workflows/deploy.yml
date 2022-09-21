@@ -19,9 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repository using git
-        uses: actions/checkout@v2          
+        uses: actions/checkout@v2     
+      - name: Move files to root
+        run: "mv web/* ."
       - name: Install, build, and upload your site
         uses: withastro/action@v0
+        with:
+          package-manager: npm
 
   deploy:
     needs: build

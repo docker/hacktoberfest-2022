@@ -1,8 +1,8 @@
 export const SITE = {
 	name: 'AstroWind',
 
-	origin: 'https://astrowind.vercel.app',
-	basePathname: '/',
+	origin: 'https://docker.github.io',
+	basePathname: '/hacktoberfest-2022',
 
 	title: 'AstroWind — Your website with Astro + Tailwind CSS',
 	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',

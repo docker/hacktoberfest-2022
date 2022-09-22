@@ -101,7 +101,7 @@ to build and install the generated extension.
 
 - Open Docker Desktop Dashboard and test the extension by navigating to the `Test-Extension` tab. You now have a running extension!
 
-![First extension](web/src/assets/images/init-extension-screenshot.png)
+![First extension](images/init-extension-screenshot.png)
 
 ## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 

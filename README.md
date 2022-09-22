@@ -53,6 +53,7 @@ You can add your own extension in this list with your own github repository.
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
+| [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
 | Add new extension to participate                                                        |                        |                |             |
 
 ## List of Docker Extensions suggestions

@@ -46,6 +46,7 @@ You can add your own extension in this list with your own github repository.
 | [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure   | In Marketplace | ✅          |
 | [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                  | In Marketplace | ✅          |
 | [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security               | In Marketplace | ✅          |
+| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                   | Blockchain             | In Marketplace | ✅          |
 | [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                  | Community      | ✅          |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools      | Community      | ✅          |
@@ -54,6 +55,7 @@ You can add your own extension in this list with your own github repository.
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | Add new extension to participate                                                        |                        |                |             |
+
 
 ## List of Docker Extensions suggestions
 

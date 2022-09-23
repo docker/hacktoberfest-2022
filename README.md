@@ -89,7 +89,7 @@ In a nutshell:
 - in a terminal, type
 
 ```
-docker extension install my-extension
+docker extension init my-extension
 ```
 
 It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).

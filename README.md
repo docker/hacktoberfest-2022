@@ -56,8 +56,9 @@ You can add your own extension in this list with your own github repository.
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
-| [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | Community | ✅          |
-| Add new extension to participate                                                        |                        |                |             |
+| [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | Community      | ✅          |
+| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
+| Add new extension to participate | | | |
 
 ## List of Docker Extensions suggestions
 

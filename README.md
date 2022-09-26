@@ -46,6 +46,9 @@ You can add your own extension in this list with your own github repository.
 | [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure   | In Marketplace | ✅          |
 | [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                  | In Marketplace | ✅          |
 | [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security               | In Marketplace | ✅          |
+| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                   | Blockchain             | In Marketplace | ✅          |
+| [Okteto](https://github.com/okteto/docker-desktop-extension)                            | Development Platform   | In Marketplace | ✅          |
+| [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                | Development Platform   | In Marketplace | ✅          |
 | [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                  | Community      | ✅          |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools      | Community      | ✅          |
@@ -54,7 +57,9 @@ You can add your own extension in this list with your own github repository.
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
-| Add new extension to participate                                                        |                        |                |             |
+| [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | Community      | ✅          |
+| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
+| Add new extension to participate | | | |
 
 ## List of Docker Extensions suggestions
 
@@ -87,7 +92,7 @@ In a nutshell:
 - in a terminal, type
 
 ```
-docker extension install my-extension
+docker extension init my-extension
 ```
 
 It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).

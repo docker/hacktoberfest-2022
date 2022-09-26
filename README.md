@@ -56,7 +56,7 @@ You can add your own extension in this list with your own github repository.
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | In Marketplace | ✅          |
-
+| Add new extension to participate                                                        |                        |                |             |
 
 ## List of Docker Extensions suggestions
 

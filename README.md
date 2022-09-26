@@ -55,7 +55,7 @@ You can add your own extension in this list with your own github repository.
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
-| Add new extension to participate                                                        |                        |                |             |
+| [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | In Marketplace | ✅          |
 
 
 ## List of Docker Extensions suggestions

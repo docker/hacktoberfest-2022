@@ -13,8 +13,7 @@ Hacktoberfest es una celebración de un mes de proyectos de código abierto, sus
 
 - ❓ [¿Cómo participar?](#cómo-participar)
 - ✔️ [Lista de extensiones de Docker para Hacktoberfest 2022](#lista-de-extensiones-docker-para-hacktoberfest-2022) 
-- 🏗️ [Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker) ## 🏗️Cómo construir su primera extensión Docker
-
+- 🏗️ [Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker) cómo-construir-su-primera-extensión-docker
 - 🗣️ [Proponga su extensión Docker en la lista Hacktoberfest](#proponga-su-extensión-docker-en-la-lista-hacktoberfest) ## 🗣️Proponga su extensión Docker en la lista Hacktoberfest
 - 📹 [Vídeos](#vídeos) ## 📹Vídeos
 - 💬 [Soporte y comunidad](#soporte-y-comunidad) ## 💬Soporte y comunidad

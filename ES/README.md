@@ -13,10 +13,11 @@ Hacktoberfest es una celebración de un mes de proyectos de código abierto, sus
 
 - ❓ [¿Cómo participar?](#cómo-participar)
 - ✔️ [Lista de extensiones de Docker para Hacktoberfest 2022](#lista-de-extensiones-docker-para-hacktoberfest-2022) 
-- 🏗️ [Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker)
-- 🗣️ [Proponga su extensión Docker en la lista Hacktoberfest](#proponga-su-extensión-docker-en-la-lista-hacktoberfest)
-- 📹 [Vídeos](#vídeos)
-- 💬 [Soporte y comunidad](#soporte-y-comunidad)
+- 🏗️ [Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker) ## 🏗️Cómo construir su primera extensión Docker
+
+- 🗣️ [Proponga su extensión Docker en la lista Hacktoberfest](#proponga-su-extensión-docker-en-la-lista-hacktoberfest) ## 🗣️Proponga su extensión Docker en la lista Hacktoberfest
+- 📹 [Vídeos](#vídeos) ## 📹Vídeos
+- 💬 [Soporte y comunidad](#soporte-y-comunidad) ## 💬Soporte y comunidad
 
 ## ❓¿Cómo participar?
 
@@ -62,9 +63,9 @@ Puede agregar su propia extensión en esta lista con su propio repositorio de gi
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
 | Add new extension to participate | | | |
 
-## List of Docker Extensions suggestions
+## Lista de sugerencias de extensiones de Docker
 
-Here is a list of suggestions or ideas for new Docker Extensions:
+Aquí hay una lista de sugerencias o ideas para las nuevas extensiones de Docker:
 
 | Name/Github Repo                                        | Category                  |
 | ------------------------------------------------------- | ------------------------- |
@@ -75,75 +76,75 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Popeye](https://github.com/derailed/popeye)            | Debugging                 |
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
 
-## 🏗️How to Build Your First Docker Extension
+## 🏗️Cómo construir su primera extensión Docker
 
-See steps below about how to create your first Docker Extension, and how to add it in the list.
+Consulte los pasos a continuación sobre cómo crear su primera extensión de Docker y cómo agregarla a la lista.
 
-When adding an extension, you can also specify if you accept Hacktoberfest contributions in your extension, that will encourage other people to participate and improve the extension you propose.
+Al agregar una extensión, también puede especificar si acepta contribuciones de Hacktoberfest en su extensión, eso alentará a otras personas a participar y mejorar la extensión que propone.
 
-If you have any questions, join our [Community Slack channel](https://dockercommunity.slack.com) #extensions.
+Si tiene alguna pregunta, únase a nuestro [canal con la comunidad de Slack](https://dockercommunity.slack.com) #extensions.
 
-## Creating your first Docker Extension
+## Creando tu primera extensión de Docker
 
-To get started, you can create your first Docker Extension in minutes. See details in our [QuickStart guide](https://docs.docker.com/desktop/extensions-sdk/quickstart/).
+Para comenzar, puede crear su primera extensión de Docker en minutos. Consulte los detalles en nuestra [Guía de inicio rápido](https://docs.docker.com/desktop/extensions-sdk/quickstart/).
 
-In a nutshell:
+En pocas palabras:
 
-- If you have not Docker Desktop installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
-- in a terminal, type
+- Si aún no ha instalado Docker Desktop, [instale Docker Desktop](https://www.docker.com/products/docker-desktop/).
+- en una terminal, escriba
 
 ```
 docker extension init my-extension
 ```
 
-It will prompt you for a Docker image name for your extension, and a few details. This will generate a hello-world extension with a basic UI and a connected backend service (optional).
+Le pedirá un nombre de imagen de Docker para su extensión y algunos detalles. Esto generará una extensión hello-world con una interfaz de usuario básica y un servicio de backend conectado (opcional).
 
-- navigate to the generated folder, and type
+- navegue hasta la carpeta generada y escriba
 
 ```
 make install-extension
 ```
 
-to build and install the generated extension.
+para compilar e instalar la extensión generada.
 
-- Open Docker Desktop Dashboard and test the extension by navigating to the `Test-Extension` tab. You now have a running extension!
+- Abra Docker Desktop Dashboard y pruebe la extensión navegando a la pestaña `Test-Extension`. ¡Ya tienes una extensión activa!
 
 ![First extension](images/init-extension-screenshot.png)
 
-## 🗣️Propose Your Docker Extension in the Hacktoberfest List
+## 🗣️Proponga su extensión Docker en la lista Hacktoberfest
 
-- Once you have a GitHub repo for your extension, edit the `README.md` and describe your extension, the pain point or user needs it solves.
-- Push the new Git repo to your GithHub account
+- Una vez que tenga un repositorio de GitHub para su extensión, edite `README.md` y describa su extensión, el problema o las necesidades del usuario que resuelve.
+- Push el nuevo repositorio de Git a su cuenta de GithHub
 
 ```
  git remote add origin https://github.com/my-account/my-extension.git
  git push -u origin main
 ```
 
-- Fork https://github.com/docker/hacktoberfest-2022 repo
-- In your local clone of `docker/harcktoberfest` repo, add your extension in the list (in `README.md`). Don't forget to include:
-  - extension name, and a one line description
-  - Github repo for the description
-  - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
-  - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
-- commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
+- Fork https://github.com/docker/hacktoberfest-2022 repositorio
+- En su clon local del repositorio `docker/harcktoberfest`, agregue su extensión en la lista (en `README.md`). No olvides incluir:
+   - nombre de la extensión y una descripción de una línea
+   - Repositorio de Github para la descripción.
+   - estado de la extensión que agrega: `idea` (si no ha comenzado a codificar realmente la extensión), `Comunidad` (se ha iniciado algún código), `funcional` (la funcionalidad está implementada)
+   - especifique si acepta PR de otros participantes del Hacktoberfest (establezca la etiqueta `hacktoberfest` en su repositorio de git)
+- Aplique commit a sus cambios y push en la rama en su fork local, y cree unPull Request en docker/harcktoberfest con su rama
 
-## 📹Videos
+## 📹Vídeos
 
-| How to Build Your First Docker Extension                                                                                                                                                 | Creating Docker Extension from Scratch                                                                                                                                                        |
+| Cómo construir su primera extensión de Docker                                                                                                                                             | Creación de la extensión Docker desde cero                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Build Your First Docker Extension](https://user-images.githubusercontent.com/313480/190869414-282ac0c5-26a7-4970-a5f2-bb0442f37495.png)](https://www.youtube.com/watch?v=Fu6BuqJ4MtE) | [![Creating Docker Extension from Scratch](https://user-images.githubusercontent.com/313480/190869394-18ce29d8-bd43-4292-afb8-467c97899864.png)](https://www.youtube.com/watch?v=HqCnOhbcobE) |
 
-| Introducing Docker Extension                                                                                                                                                               | What are Docker Extensions                                                                                                                                                        |
+|Introducción a la extensión de Docker                                                                                                                                                              | ¿Qué son las extensiones Docker?                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Introducing Docker Extension](https://user-images.githubusercontent.com/313480/190869475-09e75525-ac6a-4bbe-9c0f-fc1e7c16b51f.png)](https://www.youtube.com/watch?v=BHKp7Sc3VVc&t=420s) | [![What are Docker Extensions](https://user-images.githubusercontent.com/313480/190869659-6018e125-e09a-479c-9eba-621c708a9a34.png)](https://www.youtube.com/watch?v=zfDSFw9Z8YY) |
 
-## 💬Support and Community
+## 💬Soporte y comunidad
 
-If you do get enough interest to build a Docker Extension, the team at Docker is available to support you.
-You can find us in the [Docker Forum](https://forums.docker.com/t/about-the-hacktoberfest-category/129061), post issues on our [SDK repo](https://github.com/docker/extensions-sdk), or reach us via email extensions(AT)docker.com.
+Si tines el suficiente interés para crear una extensión de Docker, el equipo de Docker está disponible para ayudarlo.
+Puede encontrarnos en el [Foro de Docker](https://forums.docker.com/t/about-the-hacktoberfest-category/129061), publicar issues en nuestro [Repo SDK](https://github.com/docker/extensions-sdk), o comuníquese con nosotros a través del correo electrónico extensions(AT)docker.com.
 
-## References:
+## Referencias:
 
 - [Introduction to Docker Extensions](https://docs.docker.com/desktop/extensions/)
 - [How to create your own Docker Extensions](https://docs.docker.com/desktop/extensions-sdk/)

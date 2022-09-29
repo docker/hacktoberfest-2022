@@ -11,42 +11,33 @@ Hacktoberfest es una celebración de un mes de proyectos de código abierto, sus
 
 ## Tabla de contenido
 
-- ❓[¿Cómo participar?](#cómo-participar)
-- ✔️[Lista de extensiones de Docker para Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker)
-- 🗣️[Proponga su extensión Docker en la lista Hacktoberfest](#proponga-su-extensión-docker-en-la-lista-hacktoberfest)
-- 📹[Vídeos](#vídeos)
-- 💬[Soporte y comunidad](#soporte-y-comunidad)
+- ❓ [¿Cómo participar?](#cómo-participar)
+- ✔️ [Lista de extensiones de Docker para Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
+- 🏗️ [Cómo construir su primera extensión Docker](#cómo-construir-su-primera-extensión-docker)
+- 🗣️ [Proponga su extensión Docker en la lista Hacktoberfest](#proponga-su-extensión-docker-en-la-lista-hacktoberfest)
+- 📹 [Vídeos](#vídeos)
+- 💬 [Soporte y comunidad](#soporte-y-comunidad)
 
 ## ❓¿Cómo participar?
 
-- ❓[How to participate?](#how-to-participate)
-- ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
-- 📹[Videos](#videos)
-- 💬[Support and Community](#support-and-community)
+Para participar, hay dos formas principales en las que puedes contribuir:
 
-## ❓How to participate?
+1. Cree una nueva extensión propia de código abierto y agréguela a la lista a continuación.
+2. Contribuya a cualquiera de las extensiones de código abierto existentes que se enumeran a continuación que permiten PRs (pull request) para Hacktoberfest.
 
-To participate, there are two main ways you can contribute:
+Para participar en Hacktoberfest, todo lo que necesita hacer es abrir [Pull Requests](https://github.com/docker/hacktoberfest-2022/pulls) en este repositorio o en cualquiera de los repositorios enumerados a continuación para unirse a Hacktoberfest, y obtenga su PR fusionado o aprobado.
 
-1. Create a new own open source extension and add it to the list below.
-2. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
+Sabemos que crear su propia extensión puede parecer una gran tarea, por lo que aquí hay algunas pautas a tener en cuenta:
 
-In order to take part in Hacktoberfest, all you need to do is open [Pull Requests](https://github.com/docker/hacktoberfest-2022/pulls) on this repo or any of the repos listed below joining Hacktoberfest, and get your PR merged or approved.
+1. La extensión debe resolver un problema del usuario o ayudar a satisfacer una necesidad existente del usuario.
+2. No es necesario que la extensión esté lista para producción al final del Hacktoberfest.
+3. La extensión puede ser una idea o una prueba de concepto.
 
-We know that creating your own extension can feel like a big undertaking so here are a few guidelines to keep in mind:
+## ✔️Lista de extensiones Docker para Hacktoberfest 2022
 
-1. The extension should resolve a user pain point or help fill an existing user need.
-2. The extension does not need to be production ready by the end of Hacktoberfest.
-3. The extension could be an idea or proof of concept.
+Aquí hay una lista de repositorios de extensiones de Docker a los que puede contribuir, como parte del evento Hacktoberfest.
 
-## ✔️List of Docker Extensions for Hacktoberfest 2022
-
-Here is a list of Docker Extension repos you can contribute to, part of the Hacktoberfest event.
-
-You can add your own extension in this list with your own github repository.
+Puede agregar su propia extensión en esta lista con su propio repositorio de github.
 
 | Name/Github Repo                                                                        | Category               | Status         | PRs welcome |
 | --------------------------------------------------------------------------------------- | ---------------------- | -------------- | ----------- |

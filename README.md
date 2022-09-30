@@ -60,6 +60,7 @@ You can add your own extension in this list with your own github repository.
 | [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
+| [Docker Postman](https://github.com/jatin711-debug/request-docker-extension)            | Tests                  | Community      | ✅          |
 | Add new extension to participate | | | |
 
 ## List of Docker Extensions suggestions

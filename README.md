@@ -33,7 +33,7 @@ We know that creating your own extension can feel like a big undertaking so here
 2. The extension does not need to be production ready by the end of Hacktoberfest.
 3. The extension could be an idea or proof of concept.
 
-## ✔️List of Docker Extensions for Hacktoberfest 2022
+## List of Docker Extensions for Hacktoberfest 2022
 
 Here is a list of Docker Extension repos you can contribute to, part of the Hacktoberfest event.
 

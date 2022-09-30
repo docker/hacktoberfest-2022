@@ -61,7 +61,7 @@ You can add your own extension in this list with your own github repository.
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
 | [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
 | [SizeAnalyzer](https://github.com/jiyanpatil07/docker-image-size-extractor-extension.git  ) |	Content management |Community  |✅ |
-
+| Add new extension to participate | | | |
 ## List of Docker Extensions suggestions
 
 Here is a list of suggestions or ideas for new Docker Extensions:

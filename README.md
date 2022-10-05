@@ -9,15 +9,6 @@ Welcome to the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) wit
 
 Hacktoberfest is a month-long celebration of open-source projects, their maintainers, and the entire community of contributors. This event is all about giving back to the community and celebrating all things open source. We’d like to invite you to celebrate Hacktoberfest with us and contribute to the [Docker Community Extensions](https://www.docker.com/products/extensions/) .
 
-## Table of Contents
-
-- ❓[How to participate?](#how-to-participate)
-- ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
-- 📹[Videos](#videos)
-- 💬[Support and Community](#support-and-community)
-
 ## ❓How to participate?
 
 To participate, there are two main ways you can contribute:

@@ -52,7 +52,7 @@ You can add your own extension in this list with your own github repository.
 | [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                | Development Platform   | In Marketplace | ✅          |
 | [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                  | Community      | ✅          |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
-| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools      | Community      | ✅          |
+| [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)           | Development Tools      | Community      | ✅          |
 | [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration | Community      | ✅          |
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |

@@ -120,12 +120,12 @@ to build and install the generated extension.
 ```
 
 - Fork https://github.com/docker/hacktoberfest-2022 repo
-- In your local clone of `docker/harcktoberfest` repo, add your extension in the list (in `README.md`). Don't forget to include:
+- In your local clone of `docker/hacktoberfest` repo, add your extension in the list (in `README.md`). Don't forget to include:
   - extension name, and a one line description
   - Github repo for the description
   - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
-- commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
+- commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest with your branch
 
 ## 📹Videos
 

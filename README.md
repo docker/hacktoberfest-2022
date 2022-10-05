@@ -54,7 +54,7 @@ You can add your own extension in this list with your own github repository.
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
 | [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)           | Development Tools      | Community      | ✅          |
 | [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration | Community      | ✅          |
-| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
+| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content Management     | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
@@ -112,7 +112,7 @@ to build and install the generated extension.
 ## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 
 - Once you have a GitHub repo for your extension, edit the `README.md` and describe your extension, the pain point or user needs it solves.
-- Push the new Git repo to your GithHub account
+- Push the new Git repo to your GitHub account
 
 ```
  git remote add origin https://github.com/my-account/my-extension.git
@@ -120,12 +120,12 @@ to build and install the generated extension.
 ```
 
 - Fork https://github.com/docker/hacktoberfest-2022 repo
-- In your local clone of `docker/harcktoberfest` repo, add your extension in the list (in `README.md`). Don't forget to include:
+- In your local clone of `docker/hacktoberfest-2022` repo, add your extension in the list (in `README.md`). Don't forget to include:
   - extension name, and a one line description
   - Github repo for the description
   - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
-- commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
+- commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest-2022 with your branch
 
 ## 📹Videos
 

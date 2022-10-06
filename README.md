@@ -59,6 +59,7 @@ You can add your own extension in this list with your own github repository.
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
+| [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)   | Continuous Integration & Continuous Deployment| Community    | ✅          |
 | Add new extension to participate | | | |
 
 ## List of Docker Extensions suggestions

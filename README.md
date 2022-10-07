@@ -73,6 +73,7 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Mongo Express](https://hub.docker.com/_/mongo-express) | Database                  |
 | [Popeye](https://github.com/derailed/popeye)            | Debugging                 |
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
+| [Earthly](https://github.com/earthly/earthly)           | Building / CI             |
 
 ## 🏗️How to Build Your First Docker Extension
 

@@ -74,6 +74,7 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Popeye](https://github.com/derailed/popeye)            | Debugging                 |
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
 | [Earthly](https://github.com/earthly/earthly)           | Building / CI             |
+| [KICS](https://github.com/checkmarx/kics)               | Security                  |
 
 ## 🏗️How to Build Your First Docker Extension
 

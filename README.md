@@ -12,9 +12,11 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 ## Table of Contents
 
 - ❓[How to participate?](#how-to-participate)
-- ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
+- ✔️[List of Docker Extensions for Hacktoberfest 2022](#%EF%B8%8Flist-of-docker-extensions-for-hacktoberfest-2022)
+  - [List of Docker Extensions suggestions](#list-of-docker-extensions-suggestions)
+- 🏗️[How to Build Your First Docker Extension](#%EF%B8%8Fhow-to-build-your-first-docker-extension)
+  - [Creating your first Docker Extension](#creating-your-first-docker-extension)
+- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#%EF%B8%8Fpropose-your-docker-extension-in-the-hacktoberfest-list)
 - 📹[Videos](#videos)
 - 💬[Support and Community](#support-and-community)
 
@@ -35,7 +37,7 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
-Here is a list of Docker Extension repos you can contribute to, part of the Hacktoberfest event.
+Here is a list of Docker Extension repos you can contribute, as part of the Hacktoberfest event.
 
 You can add your own extension in this list with your own github repository.
 
@@ -89,7 +91,7 @@ To get started, you can create your first Docker Extension in minutes. See detai
 
 In a nutshell:
 
-- If you have not Docker Desktop installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
+- If you have not *Docker Desktop* installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
 - in a terminal, type
 
 ```

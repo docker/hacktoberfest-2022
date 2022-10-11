@@ -61,7 +61,7 @@ You can add your own extension in this list with your own github repository.
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
-| [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)               | Security               | Idea           | ✅          | 
+| [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)               | Security               | Idea           | ✅          |
 | Add new extension to participate | | | |
 
 ## List of Docker Extensions suggestions
@@ -78,6 +78,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
 | [Earthly](https://github.com/earthly/earthly)           | Building / CI             |
 | [KICS](https://github.com/checkmarx/kics)               | Security                  |
+| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension) | Security |
+| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension) | Security |
 
 ## 🏗️How to Build Your First Docker Extension
 

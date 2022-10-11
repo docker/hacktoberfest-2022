@@ -7,7 +7,7 @@
 
 Welcome to the [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/) with Docker Extensions!
 
-Hacktoberfest is a month-long celebration of open-source projects, their maintainers, and the entire community of contributors. This event is all about giving back to the community and celebrating all things open source. We’d like to invite you to celebrate Hacktoberfest with us and contribute to the [Docker Community Extensions](https://www.docker.com/products/extensions/) .
+Hacktoberfest is a month-long celebration of open-source projects, their maintainers, and the entire community of contributors. This event is all about giving back to the community and celebrating all things open source.Hacktoberfest is for everyone. We’d like to invite you to celebrate Hacktoberfest with us and contribute to the [Docker Community Extensions](https://www.docker.com/products/extensions/) .
 
 ## Table of Contents
 
@@ -22,16 +22,16 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 
 ## ❓How to participate?
 
-To participate, there are two main ways you can contribute:
+To participate, there are two main ways in which you can contribute:
 
 1. Create a new own open source extension and add it to the list below.
 2. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
 
-In order to take part in Hacktoberfest, all you need to do is open [Pull Requests](https://github.com/docker/hacktoberfest-2022/pulls) on this repo or any of the repos listed below joining Hacktoberfest, and get your PR merged or approved.
+In order to take part in Hacktoberfest, all you need to do is open [Pull Requests](https://github.com/docker/hacktoberfest-2022/pulls) on this repo or any of the repo's listed below joining Hacktoberfest, and get your PR merged or approved.
 
 We know that creating your own extension can feel like a big undertaking so here are a few guidelines to keep in mind:
 
-1. The extension should resolve a user pain point or help fill an existing user need.
+1. The extension should resolve a user pain point or help to fill an existing user need.
 2. The extension does not need to be production ready by the end of Hacktoberfest.
 3. The extension could be an idea or proof of concept.
 
@@ -70,7 +70,7 @@ You can add your own extension in this list with your own github repository.
 | Add new extension to participate | | | |
 ## List of Docker Extensions suggestions
 
-Here is a list of suggestions or ideas for new Docker Extensions:
+Here is a list of suggestions or ideas for new Docker Extensions you may need;
 
 | Name/Github Repo                                        | Category                  |
 | ------------------------------------------------------- | ------------------------- |
@@ -97,7 +97,7 @@ To get started, you can create your first Docker Extension in minutes. See detai
 
 In a nutshell:
 
-- If you have not *Docker Desktop* installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
+- If you haven't installed *Docker Desktop* yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
 - in a terminal, type
 
 ```
@@ -130,10 +130,10 @@ to build and install the generated extension.
 
 - Fork https://github.com/docker/hacktoberfest-2022 repo
 - In your local clone of `docker/hacktoberfest-2022` repo, add your extension in the list (in `README.md`). Don't forget to include:
-  - extension name, and a one line description
-  - Github repo for the description
-  - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
-  - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
+- extension name, and a one line description
+- Github repo for the description
+- status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been --started), `functional` (functionality is implemented)
+- specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
 - commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest-2022 with your branch
 
 ## 📹Videos

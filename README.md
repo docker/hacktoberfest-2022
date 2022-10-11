@@ -65,6 +65,8 @@ You can add your own extension in this list with your own github repository.
 | [API Requests](https://github.com/jatin711-debug/request-docker-extension)            | Tests                  | Community      | ✅          |
 | [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)   | CI/CD| Community    | ✅          |
 | [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)               | Security               | Idea           | ✅          |
+| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)               | Security               | Community           | ✅          |
+| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)               | Security               | Community           | ✅          |
 | Add new extension to participate | | | |
 ## List of Docker Extensions suggestions
 
@@ -80,8 +82,6 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
 | [Earthly](https://github.com/earthly/earthly)           | Building / CI             |
 | [KICS](https://github.com/checkmarx/kics)               | Security                  |
-| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension) | Security |
-| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension) | Security |
 
 ## 🏗️How to Build Your First Docker Extension
 

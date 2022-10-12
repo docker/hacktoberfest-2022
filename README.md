@@ -61,6 +61,7 @@ You can add your own extension in this list with your own github repository.
 | [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
 | [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
 | [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
+| [Middleware](https://github.com/middleware-labs/middleware-docker-extension)            | Observability           | Community     | ✅          |
 | [SizeAnalyzer](https://github.com/jiyanpatil07/docker-image-size-extractor-extension.git  ) |	Content management |Community  |✅ |
 | [API Requests](https://github.com/jatin711-debug/request-docker-extension)            | Tests                  | Community      | ✅          |
 | [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)   | CI/CD| Community    | ✅          |

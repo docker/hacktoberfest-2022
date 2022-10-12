@@ -1,4 +1,3 @@
-
 [![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/t/about-the-hacktoberfest-category/129061)
 [![Swag Store](https://img.shields.io/badge/-Swag%20Store-orange)](https://stores.kotisdesign.com/docker)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
@@ -41,34 +40,35 @@ Here is a list of Docker Extension repos you can contribute, as part of the Hack
 
 You can add your own extension in this list with your own github repository.
 
-| Name/Github Repo                                                                        | Category               | Status         | PRs welcome |
-| --------------------------------------------------------------------------------------- | ---------------------- | -------------- | ----------- |
-| [Volumes Backup & Share](https://github.com/docker/volumes-backup-extension)            | Utility                | In Marketplace | ✅          |
-| [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Security               | In Marketplace | ✅          |
-| [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure   | In Marketplace | ✅          |
-| [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                  | In Marketplace | ✅          |
-| [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security               | In Marketplace | ✅          |
-| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                   | Blockchain             | In Marketplace | ✅          |
-| [Meshery](https://github.com/meshery/meshery/tree/master/install/docker-extension)      | Cloud Native Management| In Marketplace | ✅          |
-| [Okteto](https://github.com/okteto/docker-desktop-extension)                            | Development Platform   | In Marketplace | ✅          |
-| [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                | Development Platform   | In Marketplace | ✅          |
-| [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                  | Community      | ✅          |
-| [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
-| [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)           | Development Tools      | Community      | ✅          |
-| [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration | Community      | ✅          |
-| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content Management     | Community      | ✅          |
-| [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
-| [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
-| [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)              | Authentication         | Community      | ✅          |
-| [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
-| [Middleware](https://github.com/middleware-labs/middleware-docker-extension)            | Observability           | Community     | ✅          |
-| [SizeAnalyzer](https://github.com/jiyanpatil07/docker-image-size-extractor-extension.git  ) |	Content management |Community  |✅ |
-| [API Requests](https://github.com/jatin711-debug/request-docker-extension)            | Tests                  | Community      | ✅          |
-| [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)   | CI/CD| Community    | ✅          |
-| [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)               | Security               | Idea           | ✅          |
-| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)               | Security               | Community           | ✅          |
-| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)               | Security               | Community           | ✅          |
-| Add new extension to participate | | | |
+| Name/Github Repo                                                                          | Category                  | Status         | PRs welcome |
+| ----------------------------------------------------------------------------------------- | ------------------------- | -------------- | ----------- |
+| [Volumes Backup & Share](https://github.com/docker/volumes-backup-extension)              | Utility                   | In Marketplace | ✅          |
+| [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                          | Security                  | In Marketplace | ✅          |
+| [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)              | Cloud Infrastructure      | In Marketplace | ✅          |
+| [DDosify](https://github.com/ddosify/ddosify-docker-extension)                            | Tests                     | In Marketplace | ✅          |
+| [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                    | Security                  | In Marketplace | ✅          |
+| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                     | Blockchain                | In Marketplace | ✅          |
+| [Meshery](https://github.com/meshery/meshery/tree/master/install/docker-extension)        | Cloud Native Management   | In Marketplace | ✅          |
+| [Okteto](https://github.com/okteto/docker-desktop-extension)                              | Development Platform      | In Marketplace | ✅          |
+| [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                  | Development Platform      | In Marketplace | ✅          |
+| [Postman](https://github.com/loopDelicious/docker-extension)                              | Tests                     | Community      | ✅          |
+| [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension)   | Image registry            | Community      | ✅          |
+| [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)             | Development Tools         | Community      | ✅          |
+| [Drone](https://github.com/harness/drone-desktop-docker-extension)                        | Continuous Integration    | Community      | ✅          |
+| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                     | Content Management        | Community      | ✅          |
+| [DDM](https://github.com/jatin711-debug/request-docker-extension)                         | Development tools         | Community      | ✅          |
+| [Storj](https://github.com/elek/docker-storj-extension)                                   | Cloud Infrastructure      | Community      | ✅          |
+| [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)                | Authentication            | Idea           | ✅          |
+| [Parseable](https://github.com/parseablehq/parseable-docker-extension)                    | Log Store & Observability | Community      | ✅          |
+| [Middleware](https://github.com/middleware-labs/middleware-docker-extension)              | Observability             | Idea           | ✅          |
+| [SizeAnalyzer](https://github.com/jiyanpatil07/docker-image-size-extractor-extension.git) | Content management        | Community      | ✅          |
+| [API Requests](https://github.com/jatin711-debug/request-docker-extension)                | Tests                     | Community      | ✅          |
+| [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)     | CI/CD                     | Idea           | ✅          |
+| [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)                 | Security                  | Idea           | ✅          |
+| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)                    | Security                  | Community      | ✅          |
+| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)              | Security                  | Community      | ✅          |
+| Add new extension to participate                                                          |                           |                |             |
+
 ## List of Docker Extensions suggestions
 
 Here is a list of suggestions or ideas for new Docker Extensions:
@@ -98,7 +98,7 @@ To get started, you can create your first Docker Extension in minutes. See detai
 
 In a nutshell:
 
-- If you have not *Docker Desktop* installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
+- If you have not _Docker Desktop_ installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
 - in a terminal, type
 
 ```

@@ -67,6 +67,10 @@ You can add your own extension in this list with your own github repository.
 | [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)                 | Security                  | Idea           | ✅          |
 | [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)                    | Security                  | Community      | ✅          |
 | [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)              | Security                  | Community      | ✅          |
+| [PGAdmin4](https://github.com/marcelo-ochoa/pgadmin4-docker-extension)                    | Database Tools            | Community      | ✅          |
+| [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | Community      | ✅          |
+| [SQLDeveloper Web](https://github.com/marcelo-ochoa/sdw-docker-extension)                 | Database Tools            | Community      | ✅          |
+| [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
 | Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions

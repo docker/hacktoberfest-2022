@@ -126,7 +126,7 @@ to build and install the generated extension.
 ## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 
 - Once you have a GitHub repo for your extension, edit the `README.md` and describe your extension, the pain point or user needs it solves.
-- Push the new Git repo to your GitHub account
+- Push the new Git repo to your GitHub account.
 
 ```
  git remote add origin https://github.com/my-account/my-extension.git

@@ -139,7 +139,7 @@ to build and install the generated extension.
   - Github repo for the description
   - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
-- commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest-2022 with your branch
+- commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest-2022 with your branch.
 
 ## 📹Videos
 

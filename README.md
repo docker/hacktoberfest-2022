@@ -1,6 +1,5 @@
-[![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://dockercommunity.slack.com/)
-[![Swag Store](https://img.shields.io/badge/-Swag%20Store-orange)](https://stores.kotisdesign.com/docker)
 [![Join our Forum](https://img.shields.io/badge/-Join%20our%20Forum-blue)](https://forums.docker.com/t/about-the-hacktoberfest-category/129061)
+[![Swag Store](https://img.shields.io/badge/-Swag%20Store-orange)](https://stores.kotisdesign.com/docker)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=docker.hacktoberfest-2022)
 
 ## Docker and Hacktoberfest 2022
@@ -12,9 +11,11 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 ## Table of Contents
 
 - ❓[How to participate?](#how-to-participate)
-- ✔️[List of Docker Extensions for Hacktoberfest 2022](#list-of-docker-extensions-for-hacktoberfest-2022)
-- 🏗️[How to Build Your First Docker Extension](#how-to-build-your-first-docker-extension)
-- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#propose-your-docker-extension-in-the-hacktoberfest-list)
+- ✔️[List of Docker Extensions for Hacktoberfest 2022](#%EF%B8%8Flist-of-docker-extensions-for-hacktoberfest-2022)
+  - [List of Docker Extensions suggestions](#list-of-docker-extensions-suggestions)
+- 🏗️[How to Build Your First Docker Extension](#%EF%B8%8Fhow-to-build-your-first-docker-extension)
+  - [Creating your first Docker Extension](#creating-your-first-docker-extension)
+- 🗣️[Propose Your Docker Extension in the Hacktoberfest List](#%EF%B8%8Fpropose-your-docker-extension-in-the-hacktoberfest-list)
 - 📹[Videos](#videos)
 - 💬[Support and Community](#support-and-community)
 
@@ -35,32 +36,42 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
-Here is a list of Docker Extension repos you can contribute to, part of the Hacktoberfest event.
+Here is a list of Docker Extension repos you can contribute, as part of the Hacktoberfest event.
 
 You can add your own extension in this list with your own github repository.
 
-| Name/Github Repo                                                                        | Category               | Status         | PRs welcome |
-| --------------------------------------------------------------------------------------- | ---------------------- | -------------- | ----------- |
-| [Volumes Backup & Share](https://github.com/docker/volumes-backup-extension)            | Utility                | In Marketplace | ✅          |
-| [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                        | Security               | In Marketplace | ✅          |
-| [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)            | Cloud Infrastructure   | In Marketplace | ✅          |
-| [DDosify](https://github.com/ddosify/ddosify-docker-extension)                          | Tests                  | In Marketplace | ✅          |
-| [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                  | Security               | In Marketplace | ✅          |
-| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                   | Blockchain             | In Marketplace | ✅          |
-| [Meshery](https://github.com/meshery/meshery/tree/master/install/docker-extension)      | Cloud Native Management| In Marketplace | ✅          |
-| [Okteto](https://github.com/okteto/docker-desktop-extension)                            | Development Platform   | In Marketplace | ✅          |
-| [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                | Development Platform   | In Marketplace | ✅          |
-| [Postman](https://github.com/loopDelicious/docker-extension)                            | Tests                  | Community      | ✅          |
-| [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension) | Image registry         | Community      | ✅          |
-| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension)                  | Development Tools      | Community      | ✅          |
-| [Drone](https://github.com/harness/drone-desktop-docker-extension)                      | Continuous Integration | Community      | ✅          |
-| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                   | Content management     | Community      | ✅          |
-| [DDM](https://github.com/jatin711-debug/request-docker-extension)                       | Development tools      | Community      | ✅          |
-| [Storj](https://github.com/elek/docker-storj-extension)                                 | Cloud Infrastructure   | Community      | ✅          |
-| [Parseable](https://github.com/parseablehq/parseable-docker-extension)                  | Log Store & Observability| Community    | ✅          |
-| [SuperTokens](https://github.com/supertokens/supertokens-core)                          | Authentication         | Community      | ✅          |
-| [Swagger](https://github.com/n-murphy/swagger-editor-docker-extension) ([main product](https://github.com/n-murphy/swagger-editor)) | Development Tools | Community | ✅ |
-| Add new extension to participate | | | |
+| Name/Github Repo                                                                          | Category                  | Status         | PRs welcome |
+| ----------------------------------------------------------------------------------------- | ------------------------- | -------------- | ----------- |
+| [Volumes Backup & Share](https://github.com/docker/volumes-backup-extension)              | Utility                   | In Marketplace | ✅          |
+| [JFrog](https://github.com/jfrog/jfrog-docker-desktop-extension)                          | Security                  | In Marketplace | ✅          |
+| [Aventer Mini Cluster](https://github.com/AVENTER-UG/docker-mesos-extension)              | Cloud Infrastructure      | In Marketplace | ✅          |
+| [DDosify](https://github.com/ddosify/ddosify-docker-extension)                            | Tests                     | In Marketplace | ✅          |
+| [Lacework Scanner](https://github.com/l6khq/lacework-docker-extension)                    | Security                  | In Marketplace | ✅          |
+| [GOSH](https://github.com/gosh-sh/hacktoberfest2022/)                                     | Blockchain                | In Marketplace | ✅          |
+| [Meshery](https://github.com/meshery/meshery/tree/master/install/docker-extension)        | Cloud Native Management   | In Marketplace | ✅          |
+| [Okteto](https://github.com/okteto/docker-desktop-extension)                              | Development Platform      | In Marketplace | ✅          |
+| [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                  | Development Platform      | In Marketplace | ✅          |
+| [Postman](https://github.com/loopDelicious/docker-extension)                              | Tests                     | Community      | ✅          |
+| [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension)   | Image registry            | Community      | ✅          |
+| [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)             | Development Tools         | Community      | ✅          |
+| [Drone](https://github.com/harness/drone-desktop-docker-extension)                        | Continuous Integration    | Community      | ✅          |
+| [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                     | Content Management        | Community      | ✅          |
+| [DDM](https://github.com/jatin711-debug/request-docker-extension)                         | Development tools         | Community      | ✅          |
+| [Storj](https://github.com/elek/docker-storj-extension)                                   | Cloud Infrastructure      | Community      | ✅          |
+| [SuperTokens](https://github.com/supertokens/supertokens-docker-extension)                | Authentication            | Idea           | ✅          |
+| [Parseable](https://github.com/parseablehq/parseable-docker-extension)                    | Log Store & Observability | Community      | ✅          |
+| [Middleware](https://github.com/middleware-labs/middleware-docker-extension)              | Observability             | Idea           | ✅          |
+| [SizeAnalyzer](https://github.com/jiyanpatil07/docker-image-size-extractor-extension.git) | Content management        | Community      | ✅          |
+| [API Requests](https://github.com/jatin711-debug/request-docker-extension)                | Tests                     | Community      | ✅          |
+| [Azure Pipelines Agent](https://github.com/sujaypillai/azurepipelinesagent-extension)     | CI/CD                     | Idea           | ✅          |
+| [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)                 | Security                  | Idea           | ✅          |
+| [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)                    | Security                  | Community      | ✅          |
+| [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)              | Security                  | Community      | ✅          |
+| [PGAdmin4](https://github.com/marcelo-ochoa/pgadmin4-docker-extension)                    | Database Tools            | Community      | ✅          |
+| [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | Community      | ✅          |
+| [SQLDeveloper Web](https://github.com/marcelo-ochoa/sdw-docker-extension)                 | Database Tools            | Community      | ✅          |
+| [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
+| Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions
 
@@ -74,6 +85,8 @@ Here is a list of suggestions or ideas for new Docker Extensions:
 | [Mongo Express](https://hub.docker.com/_/mongo-express) | Database                  |
 | [Popeye](https://github.com/derailed/popeye)            | Debugging                 |
 | [Botkube](https://botkube.io/)                          | Monitoring/Debugging      |
+| [Earthly](https://github.com/earthly/earthly)           | Building / CI             |
+| [KICS](https://github.com/checkmarx/kics)               | Security                  |
 
 ## 🏗️How to Build Your First Docker Extension
 
@@ -89,7 +102,7 @@ To get started, you can create your first Docker Extension in minutes. See detai
 
 In a nutshell:
 
-- If you have not Docker Desktop installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
+- If you have not _Docker Desktop_ installed yet, [install Docker Desktop](https://www.docker.com/products/docker-desktop/).
 - in a terminal, type
 
 ```
@@ -113,7 +126,7 @@ to build and install the generated extension.
 ## 🗣️Propose Your Docker Extension in the Hacktoberfest List
 
 - Once you have a GitHub repo for your extension, edit the `README.md` and describe your extension, the pain point or user needs it solves.
-- Push the new Git repo to your GithHub account
+- Push the new Git repo to your GitHub account
 
 ```
  git remote add origin https://github.com/my-account/my-extension.git
@@ -121,12 +134,12 @@ to build and install the generated extension.
 ```
 
 - Fork https://github.com/docker/hacktoberfest-2022 repo
-- In your local clone of `docker/harcktoberfest` repo, add your extension in the list (in `README.md`). Don't forget to include:
+- In your local clone of `docker/hacktoberfest-2022` repo, add your extension in the list (in `README.md`). Don't forget to include:
   - extension name, and a one line description
   - Github repo for the description
   - status of the Extension you add: `idea` (if you have not started to actually code the extension), `Community` (some code has been started), `functional` (functionality is implemented)
   - specify if you accept PRs from other Hacktoberfest participant (set `hacktoberfest` label on your git repo)
-- commit your changes and push a branch on your local fork, and create a Pull Request in docker/harcktoberfest with your branch
+- commit your changes and push a branch on your local fork, and create a Pull Request in docker/hacktoberfest-2022 with your branch
 
 ## 📹Videos
 

@@ -51,6 +51,7 @@ You can add your own extension in this list with your own github repository.
 | [Meshery](https://github.com/meshery/meshery/tree/master/install/docker-extension)        | Cloud Native Management   | In Marketplace | ✅          |
 | [Okteto](https://github.com/okteto/docker-desktop-extension)                              | Development Platform      | In Marketplace | ✅          |
 | [RedHat OpenShift](https://github.com/redhat-developer/openshift-dd-ext)                  | Development Platform      | In Marketplace | ✅          |
+| [KubeSail](https://github.com/kubesail/docker-extension)                                  | Cloud Infrastructure      | Community      | ✅          |
 | [Postman](https://github.com/loopDelicious/docker-extension)                              | Tests                     | Community      | ✅          |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension)   | Image registry            | Community      | ✅          |
 | [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)             | Development Tools         | Community      | ✅          |
@@ -71,7 +72,7 @@ You can add your own extension in this list with your own github repository.
 | [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | Community      | ✅          |
 | [SQLDeveloper Web](https://github.com/marcelo-ochoa/sdw-docker-extension)                 | Database Tools            | Community      | ✅          |
 | [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
-| [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅           |
+| [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅          |
 | Add new extension to participate                                                          |                           |                |              |
 
 ## List of Docker Extensions suggestions

@@ -55,7 +55,7 @@ You can add your own extension in this list with your own github repository.
 | [Postman](https://github.com/loopDelicious/docker-extension)                              | Tests                     | Community      | ✅          |
 | [Github Registry](https://github.com/peacecwz/github-registry-docker-desktop-extension)   | Image registry            | Community      | ✅          |
 | [Swagger-Editor](https://github.com/n-murphy/swagger-editor-docker-extension)             | Development Tools         | Community      | ✅          |
-| [Drone](https://github.com/harness/drone-desktop-docker-extension)                        | Continuous Integration    | Community      | ✅          |
+| [Drone](https://github.com/harness/drone-desktop-docker-extension)                        | Continuous Integration    | In Marketplace | ✅          |
 | [Alfresco](https://github.com/AlfrescoLabs/alfresco-docker-extension)                     | Content Management        | Community      | ✅          |
 | [DDM](https://github.com/jatin711-debug/request-docker-extension)                         | Development tools         | Community      | ✅          |
 | [Storj](https://github.com/elek/docker-storj-extension)                                   | Cloud Infrastructure      | Community      | ✅          |
@@ -68,8 +68,8 @@ You can add your own extension in this list with your own github repository.
 | [Kubescape](https://github.com/RahulSurwade08/Kubescape-docker-extension)                 | Security                  | Idea           | ✅          |
 | [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension)                    | Security                  | Community      | ✅          |
 | [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension)              | Security                  | Community      | ✅          |
-| [PGAdmin4](https://github.com/marcelo-ochoa/pgadmin4-docker-extension)                    | Database Tools            | Community      | ✅          |
-| [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | Community      | ✅          |
+| [PGAdmin4](https://github.com/marcelo-ochoa/pgadmin4-docker-extension)                    | Database Tools            | In Marketplace | ✅          |
+| [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | In Marketplace | ✅          |
 | [SQLDeveloper Web](https://github.com/marcelo-ochoa/sdw-docker-extension)                 | Database Tools            | Community      | ✅          |
 | [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
 | [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅           |

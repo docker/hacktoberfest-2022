@@ -72,7 +72,8 @@ You can add your own extension in this list with your own github repository.
 | [SQLcl](https://github.com/marcelo-ochoa/sqlcl-docker-extension)                          | Database Tools            | Community      | ✅          |
 | [SQLDeveloper Web](https://github.com/marcelo-ochoa/sdw-docker-extension)                 | Database Tools            | Community      | ✅          |
 | [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
-| [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅          |
+| [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅           |
+| [Step CA](https://github.com/hslatman/step-ca-docker-extension)                           | Security                  | Community      | ✅           |
 | Add new extension to participate                                                          |                           |                |              |
 
 ## List of Docker Extensions suggestions

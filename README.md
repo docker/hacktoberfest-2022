@@ -74,6 +74,7 @@ You can add your own extension in this list with your own github repository.
 | [OracleXE](https://github.com/marcelo-ochoa/oraclexe-docker-extension)                    | Database                  | Community      | ✅          |
 | [YugabyteDB](https://github.com/FranckPachot/yugabytedb-docker-extension)                 | Database                  | Community      | ✅           |
 | [Step CA](https://github.com/hslatman/step-ca-docker-extension)                           | Security                  | Community      | ✅           |
+| [Calyptia Core](https://github.com/calyptia/core-docker-desktop-extension) | Observability | Community | ✅ |
 | Add new extension to participate                                                          |                           |                |              |
 
 ## List of Docker Extensions suggestions

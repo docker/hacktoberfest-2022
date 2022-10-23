@@ -76,6 +76,7 @@ You can add your own extension in this list with your own github repository.
 | [Step CA](https://github.com/hslatman/step-ca-docker-extension)                           | Security                  | Community      | ✅          |
 | [Calyptia Core](https://github.com/calyptia/core-docker-desktop-extension)                | Observability             | Community      | ✅          |
 | [Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension)    | Database Monitoring       | Community      | ✅          |
+| [Local Lambda Tester](https://github.com/jasmaa/local-lambda-tester-docker-extension)     | Tests                     | Community      | ✅          |
 | Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions

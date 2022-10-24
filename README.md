@@ -78,6 +78,7 @@ You can add your own extension in this list with your own github repository.
 | [Percona Monitoring and Management](https://github.com/edithturn/pmm-docker-extension)    | Database Monitoring       | Community      | ✅          |
 | [LocalStack](https://github.com/localstack/localstack-docker-extension)                   | Cloud Emulator            | Community      | ✅          |
 | [Local Lambda Tester](https://github.com/jasmaa/local-lambda-tester-docker-extension)     | Tests                     | Community      | ✅          |
+| [Graph View](https://github.com/lucbpz/graph-view-docker-extension)                       | Utility                   | Community      | ✅          |
 | Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions

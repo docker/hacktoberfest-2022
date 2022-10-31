@@ -80,6 +80,7 @@ You can add your own extension in this list with your own github repository.
 | [Local Lambda Tester](https://github.com/jasmaa/local-lambda-tester-docker-extension)     | Tests                     | Community      | ✅          |
 | [Graph View](https://github.com/lucbpz/graph-view-docker-extension)                       | Utility                   | Community      | ✅          |
 | [Debug Distroless or Slim containers](https://github.com/felipecruz91/debug-ctr-extension)                       | Utility                   | Community      | ✅          |
+| [Git Weekly](https://github.com/aerabi/git-weekly-docker-extension)                       | Education                 | Community      | ✅           |
 | Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions

@@ -81,6 +81,7 @@ You can add your own extension in this list with your own github repository.
 | [Graph View](https://github.com/lucbpz/graph-view-docker-extension)                       | Utility                   | Community      | ✅          |
 | [Debug Distroless or Slim containers](https://github.com/felipecruz91/debug-ctr-extension)                       | Utility                   | Community      | ✅          |
 | [Git Weekly](https://github.com/aerabi/git-weekly-docker-extension)                       | Education                 | Community      | ✅           |
+| [Linkees](https://github.com/heysagnik/linkees)                       |   Utility               | Community      | ✅           |
 | Add new extension to participate                                                          |                           |                |             |
 
 ## List of Docker Extensions suggestions
@@ -138,7 +139,7 @@ to build and install the generated extension.
 - Once you have a GitHub repo for your extension, edit the `README.md` and describe your extension, the pain point or user needs it solves.
 - Push the new Git repo to your GitHub account
 
-```
+``` sh
  git remote add origin https://github.com/my-account/my-extension.git
  git push -u origin main
 ```

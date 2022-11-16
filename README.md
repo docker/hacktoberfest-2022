@@ -37,7 +37,22 @@ We know that creating your own extension can feel like a big undertaking so here
 
 ## 🎁 Swag
 
-We'll be announcing our winners on **Tuesday, November the 15th**. That same day we'll contact the successful contributors to get their postal addresses and give them more information about the swag.
+The winners of our swag are:
+- Eduardo Silva (Calyptia Core)
+- Lalit Kumar Singh (Volume Backup and Restore)
+- Sahil Soni (Volume Backup and Restore)
+- Nitish Tiwari (Parseable)
+- Mohammad-Ali A'râbi (Git Weekly)
+- Aniq Javed (Newman)
+- Harsh Mishra (LocalStack)
+- Gagandeep Pratihar (Ddosify)
+- Le-Roi (Ddosify)
+- Marcelo Ochoa (SQL Developer Web)
+- Risabh Poddar (Supertokens)
+- Jiyan Patil (Docker Image Size Extractor)
+- Jason Maa (Lambda Tester Extension)
+
+Congratulations!! In the following days we'll be reaching out to the winners directly and ship the swag their way.
 
 ## ✔️List of Docker Extensions for Hacktoberfest 2022
 
